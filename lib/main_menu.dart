@@ -21,13 +21,13 @@ class MainMenu extends StatelessWidget {
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/settings');
+                Navigator.pushNamed(context, '/info');
               },
               child: const Text('Card Information'),
             ),
             ElevatedButton(
               onPressed: () {
-                Navigator.pushNamed(context, '/info');
+                Navigator.pushNamed(context, '/settings');
               },
               child: const Text('Settings'),
             ),
