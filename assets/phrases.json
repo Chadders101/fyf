@@ -1,46 +1,57 @@
 [
   {
     "text": "I’m going to suck dick tomorrow",
-    "category": "FyF"
+    "category": "FyF",
+    "nsfw": true
   },
   {
     "text": "Why is the wine gone?",
-    "category": "FyF"
+    "category": "FyF",
+    "nsfw": false
   },
   {
     "text": "I wonder which century I’ll get laid",
-    "category": "FyF"
+    "category": "FyF",
+    "nsfw": true
   },
   {
     "text": "That’s kinda gay",
-    "category": "FyF"
+    "category": "FyF",
+    "nsfw": false
   },
   {
     "text": "I still haven’t completed last month’s homework",
-    "category": "FyF"
+    "category": "FyF",
+    "nsfw": false
   },
   {
     "text": "you have to stand on one foot, first to fall drinks",
-    "category": "Challenge"
+    "category": "Challenge",
+    "nsfw": false
   },
   {
     "text": "kiss the person to your left",
-    "category": "Challenge"
+    "category": "Challenge",
+    "nsfw": true
   },
   {
     "text": "fake an orgasm. most convincing one wins.",
-    "category": "Challenge"
+    "category": "Challenge",
+    "nsfw": true
   },
   {
     "text": "take turns slapping each others hands, first to give up loses",
-    "category": "Challenge"
+    "category": "Challenge",
+    "nsfw": false
   },
   {
     "text": "I’m not racist, but",
-    "category": "Loss"
+    "category": "Twist",
+    "nsfw": true
   },
   {
     "text": "Sing a song",
-    "category": "FyF"
+    "category": "FyF",
+    "nsfw": false
   }
 ]

@@ -95,7 +95,7 @@ class _CardInfoScreenState extends State<CardInfoScreen> {
       case 'Challenge':
         backgroundColor = Colors.yellow;
         break;
-      case 'Loss':
+      case 'Twist':
         backgroundColor = Colors.blue;
         break;
       case 'FyF':
