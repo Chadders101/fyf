@@ -20,38 +20,259 @@
     "nsfw": false
   },
   {
-    "text": "I still haven’t completed last month’s homework",
+    "text": "I’m going to suck dick tomorrow.",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "Why is the wine gone?",
     "category": "FyF",
     "nsfw": false
   },
   {
-    "text": "you have to stand on one foot, first to fall drinks",
-    "category": "Challenge",
-    "nsfw": false
-  },
-  {
-    "text": "kiss the person to your left",
-    "category": "Challenge",
-    "nsfw": true
-  },
-  {
-    "text": "fake an orgasm. most convincing one wins.",
-    "category": "Challenge",
-    "nsfw": true
-  },
-  {
-    "text": "take turns slapping each others hands, first to give up loses",
-    "category": "Challenge",
-    "nsfw": false
-  },
-  {
-    "text": "I’m not racist, but",
-    "category": "Twist",
-    "nsfw": true
-  },
-  {
-    "text": "Sing a song",
+    "text": "I wonder which century I’ll get laid.",
     "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "That’s kinda gay.",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "I still haven’t completed last month’s homework.",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I’m not racist, but...",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "I’m going to stop smoking tomorrow.",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "Just one more round!",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "The deadline's tomorrow?!",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "There were questions on the back of the exam paper!?",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "Age is just a number",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "I’m too old for this shit.",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "I'm not drunk enough.",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "I asked for consent though!",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "5G will control us all",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "Vaccine?  I don’t want to be tracked thanks.",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I didn’t know she was sixteen.",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "What’s my secret? Steroids.",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "Shots shots shots shots.",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "Fucking cunt",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "What’s your name again?",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "Sorry, I spaced out again. What did you say?",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "What’s your name again?",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I am going. I have no destination",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I’m the sexiest one here",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "I woke up around 3PM, what did I miss?",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I am going. I have no destination",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I can't come, im too tired",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "Do you know who you are talking to?!",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "It's not a conspiracy theory, it's real!",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I will leave any social gathering for the smallest reason",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "Oh this was yours? It's mine now.",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I can take 5 guys at once",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "Let's have hot gay sex",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "YES DADDY",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "Send nudes",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "Buy me a drink I'll pay you back later",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "I eat the same thing for breakfast, lunch and dinner",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "Go back to your country",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "I don't need drugs because I'm high on life",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "Your opinion is dumb",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "Sometimes i just want to...you know, like, yea",
+    "category": "FyF",
+    "nsfw": false
+  },
+  {
+    "text": "I wish to fornicate with you repeatedly",
+    "category": "FyF",
+    "nsfw": true
+  },
+  {
+    "text": "They say im quick shot but i cant tell if that's a good thing.",
+    "category": "FyF",
+    "nsfw": true
+  },
+
+  {
+    "text": "You have to stand on one foot, first to fall loses.",
+    "category": "Challenge",
+    "nsfw": false
+  },
+  {
+    "text": "kiss the person to your left.",
+    "category": "Challenge",
+    "nsfw": false
+  },
+  {
+    "text": "Fake an orgasm. most convincing one wins.",
+    "category": "Challenge",
+    "nsfw": false
+  },
+  {
+    "text": "Take turns slapping each others hands, first to give up loses.",
+    "category": "Challenge",
+    "nsfw": false
+  },
+  {
+    "text": "your face is the canvas. \"best\" drawing wins.",
+    "category": "Challenge",
+    "nsfw": false
+  },
+  {
+    "text": "Get spanked by the person to your right. First person to make a sound loses.",
+    "category": "Challenge",
+    "nsfw": false
+  },
+  {
+    "text": "Choose one person. That person is the judge, best kisser wins.",
+    "category": "Challenge",
     "nsfw": false
   }
 ]
